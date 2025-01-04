@@ -1,7 +1,7 @@
-# AWS-EC2-Instance_meta-GET
-# bash script that reads and store instance meta to use in print when visiting via public IP
-# Refer to https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html for more metadata
-# Copy below and paste into Advanced Detail > User Data
+#AWS-EC2-Instance_meta-GET
+#bash script that reads and store instance meta to use in print when visiting via public IP
+#Refer to https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html for more metadata
+#Copy below and paste into Advanced Detail > User Data
 
 #!/bin/bash
 yum update -y
